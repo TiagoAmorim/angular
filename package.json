@@ -1,0 +1,12 @@
+{
+  "name": "Portfolio",
+  "version": "0.0.0",
+  "description": "Tiago Amorim Portfolio ",
+  "main": "js\\index.js",
+  "scripts": {
+  	"start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Amorim",
+  "license": " "
+}

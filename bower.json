@@ -1,0 +1,29 @@
+{
+  "name": "Portfolio",
+  "description": "Tiago Amorim Portfolio",
+  "main": "index.js",
+  "authors": [
+    "Tiago Amorim"
+  ],
+  "license": "",
+  "keywords": [
+    "Portfolio"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8",
+    "ui-bootstrap": "~0.14.3"
+  }
+}
